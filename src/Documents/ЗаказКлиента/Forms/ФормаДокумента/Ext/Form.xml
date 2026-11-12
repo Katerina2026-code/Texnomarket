@@ -50,7 +50,7 @@
 			<ContextMenu name="КодНаСайтеКонтекстноеМеню" id="22"/>
 			<ExtendedTooltip name="КодНаСайтеРасширеннаяПодсказка" id="23"/>
 			<Events>
-				<Event name="OnChange">СпособДоставкиПриИзминении</Event>
+				<Event name="OnChange">КодНаСайтеПриИзменении</Event>
 			</Events>
 		</InputField>
 		<InputField name="Склад" id="25">
