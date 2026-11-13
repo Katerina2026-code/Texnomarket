@@ -449,6 +449,13 @@
 		</right>
 	</object>
 	<object>
+		<name>InformationRegister.СебестоимостьТоваров</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Report.Продажи</name>
 		<right>
 			<name>Use</name>

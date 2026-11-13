@@ -270,9 +270,10 @@
 			<Role>Менеджер</Role>
 			<Role>Кладовщик</Role>
 			<Role>ОбменССайтом</Role>
-			<CommonModule>ЗаполнениеДокументовКлиентСервер</CommonModule>
+			<CommonModule>ЗаполнениеДокументовСервер</CommonModule>
 			<CommonModule>ОбменССайтомСервер</CommonModule>
 			<Constant>Организация</Constant>
+			<Constant>Закупочная</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>СвойстваНоменклатуры</Catalog>
 			<Catalog>Характеристики</Catalog>
@@ -296,6 +297,7 @@
 			<Report>ЖурналОбмена</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>НастройкиИнтеграции</InformationRegister>
+			<InformationRegister>СебестоимостьТоваров</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>Взаиморасчеты</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

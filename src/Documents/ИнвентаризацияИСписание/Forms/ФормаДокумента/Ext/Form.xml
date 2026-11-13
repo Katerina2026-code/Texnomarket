@@ -80,6 +80,7 @@
 				</InputField>
 				<InputField name="ТоварыКоличествоПоУчету" id="42">
 					<DataPath>Объект.Товары.КоличествоПоУчету</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыКоличествоПоУчетуКонтекстноеМеню" id="43"/>
