@@ -288,7 +288,6 @@
 			<Document>ПоступлениеОплаты</Document>
 			<Document>ВозвратОтКлиента</Document>
 			<Document>ИнвентаризацияИСписание</Document>
-			<DocumentJournal>ЖурналОбменаССайтом</DocumentJournal>
 			<Enum>ЮрФизЛицо</Enum>
 			<Enum>СтатусыЗаказов</Enum>
 			<Report>ОстаткиТоваров</Report>
@@ -298,6 +297,7 @@
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>НастройкиИнтеграции</InformationRegister>
 			<InformationRegister>СебестоимостьТоваров</InformationRegister>
+			<InformationRegister>ЛогиОбмена</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>Взаиморасчеты</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

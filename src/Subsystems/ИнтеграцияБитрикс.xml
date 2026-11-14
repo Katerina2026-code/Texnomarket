@@ -22,9 +22,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СпособыДоставкиИОплаты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаказКлиента</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">DocumentJournal.ЖурналОбменаССайтом</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.НастройкиИнтеграции</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ЖурналОбмена</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЛогиОбмена</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
