@@ -7,14 +7,6 @@
 	<dataSet xsi:type="DataSetQuery">
 		<name>НаборДанных1</name>
 		<field xsi:type="DataSetFieldField">
-			<dataPath>Направление</dataPath>
-			<field>Направление</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>Сеанс</dataPath>
-			<field>Сеанс</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
 			<dataPath>КоличествоОбъектов</dataPath>
 			<field>КоличествоОбъектов</field>
 		</field>
@@ -22,14 +14,40 @@
 			<dataPath>КоличествоОшибок</dataPath>
 			<field>КоличествоОшибок</field>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>Период</dataPath>
+			<field>Период</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>ТекстОшибки</dataPath>
+			<field>ТекстОшибки</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>НаправлениеОбмена</dataPath>
+			<field>НаправлениеОбмена</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>СеансОбмена</dataPath>
+			<field>СеансОбмена</field>
+			<role>
+				<dcscom:dimension>true</dcscom:dimension>
+			</role>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>ЗаказКлиента</dataPath>
+			<field>ЗаказКлиента</field>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
-	ЖурналОбменаССайтом.Сеанс КАК Сеанс,
-	ЖурналОбменаССайтом.Направление КАК Направление,
-	ЖурналОбменаССайтом.КоличествоОбъектов КАК КоличествоОбъектов,
-	ЖурналОбменаССайтом.КоличествоОшибок КАК КоличествоОшибок
+	ЛогиОбмена.Период КАК Период,
+	ЛогиОбмена.СеансОбмена КАК СеансОбмена,
+	ЛогиОбмена.НаправлениеОбмена КАК НаправлениеОбмена,
+	ЛогиОбмена.КоличествоОбъектов КАК КоличествоОбъектов,
+	ЛогиОбмена.КоличествоОшибок КАК КоличествоОшибок,
+	ЛогиОбмена.ТекстОшибки КАК ТекстОшибки,
+	ЛогиОбмена.ЗаказКлиента КАК ЗаказКлиента
 ИЗ
-	ЖурналДокументов.ЖурналОбменаССайтом КАК ЖурналОбменаССайтом</query>
+	РегистрСведений.ЛогиОбмена КАК ЛогиОбмена</query>
 	</dataSet>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>
@@ -37,16 +55,25 @@
 		<dcsset:settings xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows">
 			<dcsset:selection>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>Сеанс</dcsset:field>
+					<dcsset:field>Период</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>Направление</dcsset:field>
+					<dcsset:field>СеансОбмена</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>НаправлениеОбмена</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>КоличествоОбъектов</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>КоличествоОшибок</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>КоличествоОбъектов</dcsset:field>
+					<dcsset:field>ТекстОшибки</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>ЗаказКлиента</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
 			<dcsset:outputParameters>

@@ -175,8 +175,8 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="f511ec84-187b-4030-a2d0-36863cf26ed1" configVersion="f084d6454bb6274eb2124aab44e3948900000000"/>
 		<Metadata name="Report.ЖурналОбмена" id="dafffcfe-24e3-4256-bcbd-a511bbe55a68" configVersion="8104c3d262e40e4a9dd601ac414b755300000000"/>
-		<Metadata name="Report.ЖурналОбмена.Template.ОсновнаяСхемаКомпоновкиДанных" id="9c34e6bc-35c3-4a2d-99c6-31780005dd49" configVersion="72088b3672bc594fb504d7ae6203338c00000000"/>
-		<Metadata name="Report.ЖурналОбмена.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="9c34e6bc-35c3-4a2d-99c6-31780005dd49.0" configVersion="1b56f25f6984c84997919ce0047e0fa900000000"/>
+		<Metadata name="Report.ЖурналОбмена.Template.ОсновнаяСхемаКомпоновкиДанных" id="9c34e6bc-35c3-4a2d-99c6-31780005dd49" configVersion="c3c5bff2f0d3774d81c3a2f39f9409f400000000"/>
+		<Metadata name="Report.ЖурналОбмена.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="9c34e6bc-35c3-4a2d-99c6-31780005dd49.0" configVersion="fc8efced2b5f2b4c9c5b09f82fda81f700000000"/>
 		<Metadata name="Report.ЗаказыКОтгрузке" id="10bfef7b-6ead-43d3-8e77-b524da3628b5" configVersion="c2e6b8da18c3e048958c0ab55881681200000000"/>
 		<Metadata name="Report.ЗаказыКОтгрузке.Template.ОсновнаяСхемаКомпоновкиДанных" id="cc99159b-4a8c-4eb8-b910-b4c70a5ddcb1" configVersion="61befb8ecc6a8141aea6ae3ca258c35a00000000"/>
 		<Metadata name="Report.ЗаказыКОтгрузке.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="cc99159b-4a8c-4eb8-b910-b4c70a5ddcb1.0" configVersion="8e168bebfb77d14b99f9b36f10e7c16400000000"/>
