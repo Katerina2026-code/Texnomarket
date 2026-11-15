@@ -92,6 +92,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыКоличествоПоФактуКонтекстноеМеню" id="47"/>
 					<ExtendedTooltip name="ТоварыКоличествоПоФактуРасширеннаяПодсказка" id="48"/>
+					<Events>
+						<Event name="OnChange">ТоварыКоличествоПоФактуПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ТоварыОтклонение" id="50">
 					<DataPath>Объект.Товары.Отклонение</DataPath>

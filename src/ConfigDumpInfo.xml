@@ -71,7 +71,7 @@
 			<Metadata name="Document.ВозвратОтКлиента.Attribute.Склад" id="efcdd27d-784b-4837-b5b5-b27090b2c2dd"/>
 		</Metadata>
 		<Metadata name="Document.ВозвратОтКлиента.ObjectModule" id="a419f9ff-391c-481f-aec5-c21e36419261.0" configVersion="eb2dad72beffb54fa3a45b0c485f1f4300000000"/>
-		<Metadata name="Document.ЗаказКлиента" id="3a7a99fe-4f82-4756-b5f1-79a30b561de5" configVersion="0c5fc7d0a6b9dd4f9a10b4f2bfdfc8d300000000">
+		<Metadata name="Document.ЗаказКлиента" id="3a7a99fe-4f82-4756-b5f1-79a30b561de5" configVersion="58857ca215560c489c58ffd3be57ca1b00000000">
 			<Metadata name="Document.ЗаказКлиента.Attribute.КодНаСайте" id="037d228d-7269-4c28-9a5a-0093f35a0890"/>
 			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Количество" id="4de24ac7-5b08-49f7-88c3-e4e969aabaab"/>
 			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары" id="5411375e-9a8a-4c39-b697-461079520243"/>
@@ -85,7 +85,7 @@
 		</Metadata>
 		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента" id="910df380-0ee8-49dc-be16-39370c903aff" configVersion="ed3728c0e278dd4095ac7616db63a99800000000"/>
 		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента.Form" id="910df380-0ee8-49dc-be16-39370c903aff.0" configVersion="9af7c400cdd0f74aa01c0f425022798100000000"/>
-		<Metadata name="Document.ЗаказКлиента.ObjectModule" id="3a7a99fe-4f82-4756-b5f1-79a30b561de5.0" configVersion="82bc282a933bd8498fcd6add4eb8ef6f00000000"/>
+		<Metadata name="Document.ЗаказКлиента.ObjectModule" id="3a7a99fe-4f82-4756-b5f1-79a30b561de5.0" configVersion="819816bb1dcc8c4592510a58b42b823100000000"/>
 		<Metadata name="Document.ИнвентаризацияИСписание" id="a5aad8fa-c9a3-489a-b90c-3fe5da208585" configVersion="ca2e6751ef82684a96cb812367efe4e500000000">
 			<Metadata name="Document.ИнвентаризацияИСписание.TabularSection.Товары.Attribute.Отклонение" id="0b1b0ac9-3a5d-4f8f-9d02-2a45375b8e43"/>
 			<Metadata name="Document.ИнвентаризацияИСписание.TabularSection.Товары.Attribute.КоличествоПоФакту" id="7aa84738-7fbb-4186-a6e2-9bbaeabba14b"/>
@@ -94,8 +94,8 @@
 			<Metadata name="Document.ИнвентаризацияИСписание.TabularSection.Товары.Attribute.КоличествоПоУчету" id="ba3f795c-4c2d-4fa2-8b4c-e0644d9732ac"/>
 			<Metadata name="Document.ИнвентаризацияИСписание.Attribute.Склад" id="ee1d094f-dc9e-48e7-abb7-9eb40b4a3ca5"/>
 		</Metadata>
-		<Metadata name="Document.ИнвентаризацияИСписание.Form.ФормаДокумента" id="475098ba-bab2-4644-b5f6-d61e56d16e93" configVersion="46ce9b5fb718fb41bdf720c5900b3a0000000000"/>
-		<Metadata name="Document.ИнвентаризацияИСписание.Form.ФормаДокумента.Form" id="475098ba-bab2-4644-b5f6-d61e56d16e93.0" configVersion="784a803e0f341341b8a33375d658872b00000000"/>
+		<Metadata name="Document.ИнвентаризацияИСписание.Form.ФормаДокумента" id="475098ba-bab2-4644-b5f6-d61e56d16e93" configVersion="924b00d55e1e744a8ed9c2029907f9d900000000"/>
+		<Metadata name="Document.ИнвентаризацияИСписание.Form.ФормаДокумента.Form" id="475098ba-bab2-4644-b5f6-d61e56d16e93.0" configVersion="83c58ec426b35443bc15dacf324c11a000000000"/>
 		<Metadata name="Document.ИнвентаризацияИСписание.ObjectModule" id="a5aad8fa-c9a3-489a-b90c-3fe5da208585.0" configVersion="6ee5d5d3919c2e49afe71b60521bc58000000000"/>
 		<Metadata name="Document.ПоступлениеОплаты" id="45e72143-27d7-4428-8bc5-f82d93c9ee62" configVersion="e98c5407d719fd42beabc36ebedb0dc200000000">
 			<Metadata name="Document.ПоступлениеОплаты.Attribute.Контрагент" id="461f4764-9cc1-4e5c-ab85-831660c0f283"/>
