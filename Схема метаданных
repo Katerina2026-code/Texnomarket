@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="kwK2i20o4Z2wpkPPUOsa">
-    <mxGraphModel dx="2308" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4477" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,38 +25,38 @@
         <mxCell id="cy5itvnivI09soNeC_nT-105" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=16;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Характеристики&amp;nbsp;&lt;/font&gt;&lt;div&gt;Значение: строка(100)&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="-110" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="cy5itvnivI09soNeC_nT-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Контрагенты&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Инн: строка(12)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ВидКонтрагента.Перечислен&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ие.ЮрФизЛицо&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="-119" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
+        <mxCell id="cy5itvnivI09soNeC_nT-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Склады&lt;/font&gt;&lt;div&gt;Адрес: строка(200)&lt;/div&gt;&lt;div&gt;ИдентификаторБитрикс: строка(50)&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="-119" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
+        <mxCell id="cy5itvnivI09soNeC_nT-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;СпособыДоставкиИОплаты&lt;/font&gt;&lt;div&gt;КодНаСайте: строка(50)&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="-120" y="1520" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
+        <mxCell id="cy5itvnivI09soNeC_nT-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ВидыЦен&lt;/font&gt;&lt;div&gt;ВыгружатьНаСайт: Булево&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="-120" y="1280" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
+        <mxCell id="cy5itvnivI09soNeC_nT-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ВозвратОтКлиента&lt;/font&gt;&lt;div&gt;Контрагент:Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Склад:Справочник.Склады&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура:Справочник.&lt;/div&gt;&lt;div&gt;Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Количество:Число(15,3)&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="360" y="1280" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
+        <mxCell id="cy5itvnivI09soNeC_nT-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ПоступлениеОплаты&lt;/font&gt;&lt;div&gt;Контрагент:Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Сумма: Число (15,2)&lt;/div&gt;&lt;div&gt;ЗаказКлиента: Документ.ЗаказКлиента&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="350" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
-          <mxGeometry height="125" width="252.5" x="360" y="800" as="geometry" />
+        <mxCell id="cy5itvnivI09soNeC_nT-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РеализацияТоваров&lt;/font&gt;&lt;div&gt;ДокументОснование:Документ.ЗаказКлиента&lt;/div&gt;&lt;div&gt;Контрагент:Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Склад:Справочник.Склады&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура:Справочник.&lt;/div&gt;&lt;div&gt;Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Количество: Число(15,3)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Цена:Число(15,2)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Сумма: Число(15,2)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Характеристика:Справочник.&lt;/div&gt;&lt;div&gt;Характеристики&lt;/div&gt;" vertex="1">
+          <mxGeometry height="185" width="300" x="360" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
-          <mxGeometry height="125" width="252.5" x="366.25" y="570" as="geometry" />
+        <mxCell id="cy5itvnivI09soNeC_nT-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ЗаказКлиента&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Контрагент: Справочник.Контрагенты&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;СпособДоставки:Справочник.Способы&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ДоставкиИОплаты&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;СтатусЗаказа: Перечисление.СтатусыЗаказов&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;КодНаСайте: строка(20)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Склад:Справочник.Склады&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Тч.Товары.Номенклатура: Справочник.Номенклатура&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ТЧ.Товары.Количество: Число(10,0)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ТЧ.Товары.Цена: Число(15,2)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ТЧ.ТоварыСумма: Число(15,2)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="185" width="280" x="366.25" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
+        <mxCell id="cy5itvnivI09soNeC_nT-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ПоступлениеТовров&lt;/font&gt;&lt;div&gt;Поставщик: Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Склад: Справочник.Склады&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура:&lt;/div&gt;&lt;div&gt;Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Количество: Число(10,0)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Цена: Число(15,2)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Сумма:Число(15,2)&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="360" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
+        <mxCell id="cy5itvnivI09soNeC_nT-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;УстановкаЦен&lt;/font&gt;&lt;div&gt;ВидыЦен:Справочник.ВидыЦен&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура: Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Цена: число(15,2)&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="252.5" x="366.25" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="cy5itvnivI09soNeC_nT-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
-          <mxGeometry height="125" width="252.5" x="360" y="1520" as="geometry" />
+        <mxCell id="cy5itvnivI09soNeC_nT-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ИнвентаризацияИСписание&lt;/font&gt;&lt;div&gt;Склад:Справочник.Склады&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура:Справочник.&lt;/div&gt;&lt;div&gt;Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.КоличествоПоУчету:&lt;/div&gt;&lt;div&gt;Число(15,3)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.КоличествоПоФакту:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Число(15,3)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Отклонение: Число(15,3)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="260" x="360" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value=" " vertex="1">
           <mxGeometry height="125" width="252.5" x="830" y="80" as="geometry" />
