@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="kwK2i20o4Z2wpkPPUOsa">
-    <mxGraphModel dx="3385" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,8 +65,16 @@
         <mxCell id="cy5itvnivI09soNeC_nT-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ПоступлениеТовров&lt;/font&gt;&lt;div&gt;Поставщик: Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Склад: Справочник.Склады&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура:&lt;/div&gt;&lt;div&gt;Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Количество: Число(10,0)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Цена: Число(15,2)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Сумма:Число(15,2)&lt;/div&gt;" vertex="1">
           <mxGeometry height="175" width="366" x="30" y="400" as="geometry" />
         </mxCell>
+        <mxCell id="6SdqfzjnsT21hCjvVjC7-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;flowAnimation=1;" target="cy5itvnivI09soNeC_nT-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6SdqfzjnsT21hCjvVjC7-12" edge="1" parent="1" source="cy5itvnivI09soNeC_nT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.952;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;flowAnimation=1;" target="cy5itvnivI09soNeC_nT-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;УстановкаЦен&lt;/font&gt;&lt;div&gt;ВидыЦен:Справочник.ВидыЦен&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура: Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Цена: число(15,2)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="366" x="40" y="90" as="geometry" />
+          <mxGeometry height="165" width="366" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ИнвентаризацияИСписание&lt;/font&gt;&lt;div&gt;Склад:Справочник.Склады&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура:Справочник.&lt;/div&gt;&lt;div&gt;Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.КоличествоПоУчету:&lt;/div&gt;&lt;div&gt;Число(15,3)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.КоличествоПоФакту:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Число(15,3)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Отклонение: Число(15,3)&lt;/div&gt;" vertex="1">
           <mxGeometry height="175" width="366" x="48" y="2000" as="geometry" />
@@ -103,6 +111,28 @@
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Справочники" vertex="1">
           <mxGeometry height="30" width="60" x="-473" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6SdqfzjnsT21hCjvVjC7-3" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="810" as="sourcePoint" />
+            <mxPoint x="930" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6SdqfzjnsT21hCjvVjC7-4" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="810" as="sourcePoint" />
+            <mxPoint x="930" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6SdqfzjnsT21hCjvVjC7-5" edge="1" parent="1" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="810" />
+              <mxPoint x="880" y="760" />
+            </Array>
+            <mxPoint x="880" y="810" as="sourcePoint" />
+            <mxPoint x="930" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
