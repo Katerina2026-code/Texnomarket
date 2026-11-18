@@ -53,6 +53,15 @@
         <mxCell id="cy5itvnivI09soNeC_nT-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ВозвратОтКлиента&lt;/font&gt;&lt;div&gt;Контрагент:Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Склад:Справочник.Склады&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура:Справочник.&lt;/div&gt;&lt;div&gt;Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Количество:Число(15,3)&lt;/div&gt;" vertex="1">
           <mxGeometry height="175" width="366" x="680" y="1650" as="geometry" />
         </mxCell>
+        <mxCell id="6SdqfzjnsT21hCjvVjC7-45" edge="1" parent="1" source="cy5itvnivI09soNeC_nT-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.85;entryDx=0;entryDy=0;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5AA9E6;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#FFE45E;flowAnimation=1;" target="cy5itvnivI09soNeC_nT-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="218" y="1417.5" />
+              <mxPoint x="218" y="1210" />
+              <mxPoint x="-244" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ПоступлениеОплаты&lt;/font&gt;&lt;div&gt;Контрагент:Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Сумма: Число (15,2)&lt;/div&gt;&lt;div&gt;ЗаказКлиента: Документ.ЗаказКлиента&lt;/div&gt;" vertex="1">
           <mxGeometry height="175" width="366" x="680" y="1330" as="geometry" />
         </mxCell>
@@ -184,28 +193,28 @@
           <mxGeometry height="165" width="366" x="680" y="90" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ИнвентаризацияИСписание&lt;/font&gt;&lt;div&gt;Склад:Справочник.Склады&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Номенклатура:Справочник.&lt;/div&gt;&lt;div&gt;Номенклатура&lt;/div&gt;&lt;div&gt;ТЧ.Товары.КоличествоПоУчету:&lt;/div&gt;&lt;div&gt;Число(15,3)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.КоличествоПоФакту:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Число(15,3)&lt;/div&gt;&lt;div&gt;ТЧ.Товары.Отклонение: Число(15,3)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="366" x="660" y="1920" as="geometry" />
+          <mxGeometry height="175" width="366" x="660" y="2000" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РегистрСведений.Цены&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Номеклатуры&lt;/font&gt;&lt;div&gt;Измерения.Номенклатура: Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;Измерения.ВидЦены: Справочник.ВидЦены&lt;/div&gt;&lt;div&gt;Ресурсы.Цена: Число(15,2)&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="175" width="366" x="1310" y="90" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РегистрСведений.Настройки&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Интеграции&lt;/font&gt;&lt;div&gt;Ресурсы.АдресСайта: Строка(150)&lt;/div&gt;&lt;div&gt;Ресурсы.Логин: Строка(50)&lt;/div&gt;&lt;div&gt;Ресурсы.ПарольУстановлен: Булево&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="366" x="1310" y="340" as="geometry" />
+          <mxGeometry height="175" width="366" x="1297" y="375" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РегистрСведений.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;СебестоимостьТоваров&lt;/font&gt;&lt;div&gt;Измерения.Номенклатура: Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;Ресурсы.Себестоимость: Число(15,2)&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="366" x="1320" y="610" as="geometry" />
+          <mxGeometry height="175" width="366" x="1297" y="700" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РегистрСведений.ЛогиОбмена&lt;/font&gt;&lt;div&gt;Изменения.СеансОбмена: Строка(50)&lt;/div&gt;&lt;div&gt;Ресурсы.НаправлениеОбмена:Строка(30)&lt;/div&gt;&lt;div&gt;Ресурсы.КоличествоОбъектов: Число(10)&lt;/div&gt;&lt;div&gt;Ресурсы.КоличествоОшибок: Число(10)&lt;/div&gt;&lt;div&gt;Ресурсы.ТекстОшибки: Строка(0)&lt;/div&gt;&lt;div&gt;Ресурсы.ЗаказКлиента: Документ.ЗаказКлиента&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="366" x="1320" y="970" as="geometry" />
+          <mxGeometry height="175" width="366" x="1310" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РегистрыНакопления.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Остатки&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Товаров&lt;/span&gt;&lt;div&gt;&lt;div&gt;Измерения.Номенклатура: Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;Измерения.Склад: Справочник.Склады&lt;/div&gt;&lt;div&gt;Измерения.Характеристика: Справочник.Характеристики&lt;/div&gt;&lt;div&gt;Измерения.ЗаказКлиента: Документ.ЗаказКлиента&lt;/div&gt;&lt;div&gt;Ресурсы.Количество: Число(15,2)&lt;/div&gt;&lt;div&gt;Ресурсы.Резерв: Число(15,0)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="366" x="1310" y="1310" as="geometry" />
+          <mxGeometry height="175" width="366" x="1310" y="1330" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РегистрНакопления.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Взаиморасчеты&lt;/font&gt;&lt;div&gt;Измерения.Контрагент: Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Ресурсы.Сумма: Число(15,2)&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="366" x="1310" y="1560" as="geometry" />
+          <mxGeometry height="175" width="366" x="1288" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РегистрНакопления.Продажи&lt;/font&gt;&lt;div&gt;Измерения.Контрагент: Справочник.Контрагенты&lt;/div&gt;&lt;div&gt;Измерения.Номенклатура:&lt;/div&gt;&lt;div&gt;Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;Измерения.Характеристика:&lt;/div&gt;&lt;div&gt;Справочник.Характеристики&lt;/div&gt;&lt;div&gt;Ресурсы.Колиество: Число(10,0)&lt;/div&gt;&lt;div&gt;Ресурсы.Сумма: Число(15,2)&lt;/div&gt;&lt;div&gt;Ресурсы.Себестоимость: Число(15,2)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="366" x="1320" y="1840" as="geometry" />
+          <mxGeometry height="175" width="366" x="1320" y="2010" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Перечесления.ЮрФизЛицо&lt;/font&gt;&lt;div&gt;ЮрЛицо&lt;/div&gt;&lt;div&gt;ФизЛицо&lt;/div&gt;" vertex="1">
           <mxGeometry height="175" width="366" x="1776" y="90" as="geometry" />
