@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="kwK2i20o4Z2wpkPPUOsa">
-    <mxGraphModel dx="4500" dy="2414" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4731" dy="2515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,6 +11,9 @@
           <mxGeometry height="83" width="430" x="1548" as="geometry" />
         </mxCell>
         <mxCell id="6SdqfzjnsT21hCjvVjC7-101" edge="1" parent="1" source="cy5itvnivI09soNeC_nT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5AA9E6;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#FFE45E;" target="cy5itvnivI09soNeC_nT-128" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6SdqfzjnsT21hCjvVjC7-103" edge="1" parent="1" source="cy5itvnivI09soNeC_nT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5AA9E6;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#FFE45E;" target="cy5itvnivI09soNeC_nT-128" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Номенклатура&lt;/font&gt;&lt;div&gt;(Иерархический)&lt;/div&gt;&lt;div&gt;Описание: строка(0)&lt;/div&gt;&lt;div&gt;Картинка: хранилище значения&lt;/div&gt;" vertex="1">
@@ -97,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cy5itvnivI09soNeC_nT-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;РегистрыНакопления.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Остатки&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Товаров&lt;/span&gt;&lt;div&gt;&lt;div&gt;Измерения.Номенклатура: Справочник.Номенклатура&lt;/div&gt;&lt;div&gt;Измерения.Склад: Справочник.Склады&lt;/div&gt;&lt;div&gt;Измерения.Характеристика: Справочник.Характеристики&lt;/div&gt;&lt;div&gt;Измерения.ЗаказКлиента: Документ.ЗаказКлиента&lt;/div&gt;&lt;div&gt;Ресурсы.Количество: Число(15,2)&lt;/div&gt;&lt;div&gt;Ресурсы.Резерв: Число(15,0)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="356" x="860" y="1350" as="geometry" />
+          <mxGeometry height="175" width="356" x="870" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="6SdqfzjnsT21hCjvVjC7-94" edge="1" parent="1" source="cy5itvnivI09soNeC_nT-123" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#006EAF, #6010c1);fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5AA9E6;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#1ba1e2;" target="cy5itvnivI09soNeC_nT-112">
           <mxGeometry relative="1" as="geometry" />
