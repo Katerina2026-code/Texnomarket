@@ -56,8 +56,8 @@
 		</Metadata>
 		<Metadata name="CommonModule.ЗаполнениеДокументовСервер" id="1910d67d-cf69-4dc6-a02a-90afe8cea267" configVersion="d685866eb6463747a0f26ca6187321a200000000"/>
 		<Metadata name="CommonModule.ЗаполнениеДокументовСервер.Module" id="1910d67d-cf69-4dc6-a02a-90afe8cea267.0" configVersion="184c1807a4327845ad7e60fd766d7af200000000"/>
-		<Metadata name="CommonModule.ОбменССайтомСервер" id="5e64815c-499c-4ac5-b386-8ffea45d17a4" configVersion="70653bfcb6610a479b610f216404d3ad00000000"/>
-		<Metadata name="CommonModule.ОбменССайтомСервер.Module" id="5e64815c-499c-4ac5-b386-8ffea45d17a4.0" configVersion="11a353eb43cc38489e54c4208b0a5bb100000000"/>
+		<Metadata name="CommonModule.ОбменССайтомСервер" id="5e64815c-499c-4ac5-b386-8ffea45d17a4" configVersion="da66d32a3dad624d9270d1d137fbb27300000000"/>
+		<Metadata name="CommonModule.ОбменССайтомСервер.Module" id="5e64815c-499c-4ac5-b386-8ffea45d17a4.0" configVersion="68a4185a571e1d41a1f0cc8edb2144ba00000000"/>
 		<Metadata name="CommonPicture.ОбщаяКартинка1" id="4b569e81-31fd-47a8-9d21-782710b6b20e" configVersion="93f2d4483e8ea24f96ef0913c7d72a9500000000"/>
 		<Metadata name="Configuration.Конфигурация" id="0b936b50-5831-4bf6-a809-4a63ce893753" configVersion="2058cf1fe9d8ba49b6a88f5893d4b21800000000"/>
 		<Metadata name="Configuration.Конфигурация.SessionModule" id="2ecdb7ea-0933-44a3-be9a-1a6b7c6c4455.7" configVersion="3951b34700728049b6df41fe5a84b0e500000000"/>
