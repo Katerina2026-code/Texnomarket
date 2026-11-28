@@ -25,6 +25,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.НастройкиИнтеграции</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ЖурналОбмена</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЛогиОбмена</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ГенераторТестовыхДанных</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

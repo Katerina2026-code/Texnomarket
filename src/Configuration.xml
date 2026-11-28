@@ -272,6 +272,7 @@
 			<Role>ОбменССайтом</Role>
 			<CommonModule>ЗаполнениеДокументовСервер</CommonModule>
 			<CommonModule>ОбменССайтомСервер</CommonModule>
+			<ScheduledJob>ОбменССайтом</ScheduledJob>
 			<Constant>Организация</Constant>
 			<Constant>Закупочная</Constant>
 			<Catalog>Номенклатура</Catalog>
@@ -294,6 +295,7 @@
 			<Report>Продажи</Report>
 			<Report>ЗаказыКОтгрузке</Report>
 			<Report>ЖурналОбмена</Report>
+			<DataProcessor>ГенераторТестовыхДанных</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>НастройкиИнтеграции</InformationRegister>
 			<InformationRegister>СебестоимостьТоваров</InformationRegister>
